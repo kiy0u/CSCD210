@@ -1,2 +1,2 @@
 # CSCD210
-Coursework for CSCD210, taken in Spring '24
+Coursework for CSCD210, taken in Winter Quarter of 2024
